@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>view/main.qml</file>
+        <file>view/MainForm.ui.qml</file>
+        <file>view/LoginDialog.qml</file>
+        <file>view/MenuBoxList.qml</file>
+    </qresource>
+</RCC>
